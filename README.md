@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # ALONE BEAST
@@ -9,24 +10,24 @@
 
 ---
 
+### **About Me**
+Information Security professional specializing in Web Application Penetration Testing. Dedicated to identifying critical vulnerabilities and building high-performance security automation tools using **Python**.
+
 ### **Core Expertise**
-* **Security Research:** Focused on Web Application Penetration Testing and API Security.
 * **Bug Bounty:** Actively hunting on platforms like HackerOne and Intigriti.
-* **Tool Development:** Building custom security tools and automation scripts using **Python**.
+* **Security Research:** Deep focus on SQLi, IDOR, and API Security.
+* **Automation:** Developing stealthy, multi-threaded reconnaissance scanners.
 
 ### **Technical Focus**
-* **Vulnerabilities:** SQLi, IDOR, SSRF, and Business Logic Flaws.
-* **Environments:** Advanced Reconnaissance using Linux and Termux.
-* **Automation:** Developing high-performance, multi-threaded security scanners.
-
-### **Current Project**
-* **[BeastSniffer](https://github.com/alonebeast002/BeastSniffer)** - A high-performance, multi-threaded passive subdomain scanner.
+* **Languages:** Python, Bash, JavaScript
+* **Operating Systems:** Linux (Debian/Kali), Termux (Android)
+* **Testing Areas:** Web Apps, Network Infrastructure, API Endpoints
 
 ---
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Alone%20Beast-181717?style=for-the-badge&logo=github)](https://github.com/alonebeast002)
-[![Skills](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=python)](https://github.com/alonebeast002)
+[![Skills](https://img.shields.io/badge/Focus-Security-green?style=for-the-badge)](https://github.com/alonebeast002)
 
 </div>
