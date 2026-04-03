@@ -1,44 +1,32 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/hacker.gif" width="150" />
+# ALONE BEAST
+**Security Researcher | Bug Bounty Hunter | Tool Developer**
 
-# [ ALONE BEAST ]
-### SECURITY RESEARCHER | OFFENSIVE TOOLING | EXPLOITATION
-
----
-
-> "The quietest people have the loudest minds. In a world of noise, I focus on the silence between the code."
-
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Security+Researcher;Python+Developer;Bug+Bounty+Hunter;Vulnerability+Research" alt="Typing SVG" />
 
 </div>
 
-## CORE PROTOCOL
-Information Security professional specializing in high-concurrency automation and manual vulnerability research. I don't follow the path; I map the terrain. My work begins where automated scanners reach their limit.
+---
 
-### TECHNICAL DOMAIN
-* **ADVANCED RECONNAISSANCE:** Engineering stealthy, zero-footprint discovery engines for large-scale attack surface mapping.
-* **VULNERABILITY ANALYSIS:** Specialized in 403/401 bypass, Broken Access Control, and Logic-based exfiltration.
-* **SECURITY AUTOMATION:** Developing agile, multi-threaded frameworks to bridge the gap between discovery and exploitation.
+### **About Me**
+Information Security professional specializing in Web Application Penetration Testing. Dedicated to identifying critical vulnerabilities and building high-performance security automation tools using **Python**.
+
+### **Core Expertise**
+* **Bug Bounty:** Actively hunting on platforms like HackerOne and Intigriti.
+* **Security Research:** Deep focus on SQLi, IDOR, and API Security.
+* **Automation:** Developing stealthy, multi-threaded reconnaissance scanners.
+
+### **Technical Focus**
+* **Languages:** Python, Bash, JavaScript
+* **Operating Systems:** Linux (Debian/Kali), Termux (Android)
+* **Testing Areas:** Web Apps, Network Infrastructure, API Endpoints
 
 ---
 
-## TECHNICAL STACK
-* **LANGUAGES:** Python, Bash, Go, JavaScript
-* **PLATFORMS:** Linux (Debian/Kali), Termux, Docker
-* **METHODOLOGY:** OWASP Top 10, Red Team Recon, OSINT
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Alone%20Beast-181717?style=for-the-badge&logo=github)](https://github.com/alonebeast002)
+[![Skills](https://img.shields.io/badge/Focus-Security-green?style=for-the-badge)](https://github.com/alonebeast002)
 
-> "Logic is the beginning of wisdom, not the end. To secure the future, we must first understand the shadows of the present."
-
----
-
-## MISSION LOGS
-* [ GITHUB REPOSITORY ](https://github.com/alonebeast002)
-* [ HACKERONE PROFILE ](https://hackerone.com/alonebeast002)
-
----
-
-**DISCLAIMER**
-All research and digital assets are for authorized security testing only. Use with intent. Act with responsibility. The developer assumes no liability for misuse.
+</div>
