@@ -1,58 +1,54 @@
 # ALONE BEAST
-### Security Researcher | Vulnerability Research | Security Automation
+### Offensive Security | Vulnerability Research | Security Tooling
 
 ---
 
-## Technical Profile
-Information Security professional specializing in Web Application Penetration Testing and Offensive Security Tooling. Focused on identifying critical vulnerabilities and developing high-performance automation frameworks for large-scale reconnaissance and exploitation.
-
-* **Primary Focus:** Advanced 403 Forbidden Bypassing and Logic Flaws.
-* **Bug Bounty:** Active contributor to VRP programs (Google, Microsoft, HackerOne).
-* **Development:** High-concurrency security tools using Python and Go.
+## Technical Overview
+Information Security professional focused on automated reconnaissance and manual exploitation of web infrastructure. I specialize in developing high-concurrency Python frameworks that bridge the gap between mass scanning and deep-dive penetration testing. My primary objective is identifying high-impact vulnerabilities in complex environments where standard scanners fail.
 
 ---
 
-## Core Competencies
+## Core Focus Areas
 
-### Vulnerability Research
-* Authentication and Authorization Bypass (IDOR/RBAC)
-* Advanced SQL Injection and Blind Data Exfiltration
-* API Security Auditing and Endpoint Mapping
-* Server-Side Request Forgery (SSRF) and OOB Exploitation
+### Advanced Reconnaissance
+* Development of stealthy discovery engines for large-scale asset mapping.
+* Logic-based subdomain enumeration and live asset validation.
+* Metadata exfiltration and sensitive endpoint discovery.
 
-### Security Engineering
-* Multi-threaded Reconnaissance Frameworks
-* Stealthy Metadata Exfiltration Systems
-* Automated Baseline Filtering and Pattern Fuzzing
-* Custom Nuclei Templates for Zero-Day Detection
+### Web Application Security
+* Specialized in 403/401 Forbidden bypass techniques via header manipulation and path fuzzing.
+* Manual analysis of IDOR, Broken Access Control, and Logic-based vulnerabilities.
+* API Security testing, focusing on unauthorized data exposure and parameter pollution.
 
----
-
-## Technical Arsenal
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Python, Bash, Go, JavaScript |
-| **Tooling** | Burp Suite Professional, Nuclei, Nmap, Metasploit |
-| **Infrastructure** | Linux (Debian/Kali), Docker, Termux Environment |
-| **Specialization** | Web App Pentesting, Network Recon, API Security |
+### Security Automation (Python/Bash)
+* Building multi-threaded fuzzing engines with smart baseline filtering.
+* Creating custom wrappers for security tools to streamline the Bug Bounty workflow.
+* Automating the exfiltration of geolocation and device fingerprinting data for authorized testing.
 
 ---
 
-## GitHub Statistics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alonebeast002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alonebeast002&theme=tokyonight&hide_border=true" alt="Contribution Streak" />
-</div>
+## Technical Stack
+
+* **Programming:** Python (Primary), Bash, JavaScript (DOM analysis).
+* **Environments:** Linux (Debian/Kali), Termux (Mobile Security Lab), Docker.
+* **Core Tooling:** Burp Suite Pro, Nuclei, Nmap, ffuf, Cloudflared.
+* **Methodologies:** OWASP Top 10, OSINT, Red Team Recon.
+
+---
+
+## Active Research & Projects
+
+* **Void-Recon:** A multi-module toolkit for directory fuzzing and 403 bypassing.
+* **BeastSniffer:** A high-speed passive reconnaissance engine for stealthy intelligence gathering.
+* **GhostTrack:** A geolocation intelligence framework for authorized tracking and device logging.
 
 ---
 
 ## Professional Links
 * [GitHub Repository](https://github.com/alonebeast002)
 * [HackerOne Profile](https://hackerone.com/alonebeast002)
-* [Security Research Contact](mailto:your-email@example.com)
 
 ---
 
-**Disclaimer**
-All projects and research shared on this profile are for educational purposes and authorized security testing only. The developer assumes no liability for misuse or damage caused by the tools or techniques discussed herein.
+**Legal Disclaimer**
+The tools and technical information shared on this profile are strictly for educational and authorized security research purposes. Any unauthorized use against targets without prior written consent is illegal. I assume no liability for misuse or damage caused by these resources.
