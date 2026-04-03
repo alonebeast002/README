@@ -1,4 +1,8 @@
-# ALONE BEAST 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/hacker.gif" width="150" />
+
+# [ ALONE BEAST ]
 ### SECURITY RESEARCHER | OFFENSIVE TOOLING | EXPLOITATION
 
 ---
@@ -6,6 +10,8 @@
 > "The quietest people have the loudest minds. In a world of noise, I focus on the silence between the code."
 
 ---
+
+</div>
 
 ## CORE PROTOCOL
 Information Security professional specializing in high-concurrency automation and manual vulnerability research. I don't follow the path; I map the terrain. My work begins where automated scanners reach their limit.
@@ -29,8 +35,8 @@ Information Security professional specializing in high-concurrency automation an
 ---
 
 ## MISSION LOGS
-* [ GITHUB REPOSITORY ]
-* [ HACKERONE PROFILE ]
+* [ GITHUB REPOSITORY ](https://github.com/alonebeast002)
+* [ HACKERONE PROFILE ](https://hackerone.com/alonebeast002)
 
 ---
 
