@@ -1,54 +1,36 @@
-# ALONE BEAST
-### Offensive Security | Vulnerability Research | Security Tooling
+# [ ALONE BEAST ]
+## Digital Intelligence | Security Tooling | Vulnerability Analysis
 
 ---
 
-## Technical Overview
-Information Security professional focused on automated reconnaissance and manual exploitation of web infrastructure. I specialize in developing high-concurrency Python frameworks that bridge the gap between mass scanning and deep-dive penetration testing. My primary objective is identifying high-impact vulnerabilities in complex environments where standard scanners fail.
+> "We are the ghosts in the machine. We are the explorers of the digital frontier, finding the cracks where reality leaks through the code."
 
 ---
 
-## Core Focus Areas
+### -> Digital Persona
+A high-concurrency Python developer focused on automating reconnaissance and exposing critical logical flaws. I do not just run tools; I engineer them to do what standard security scanners can only imagine. My obsession is mapping attack surfaces and engineering stealthy digital entry points.
 
-### Advanced Reconnaissance
-* Development of stealthy discovery engines for large-scale asset mapping.
-* Logic-based subdomain enumeration and live asset validation.
-* Metadata exfiltration and sensitive endpoint discovery.
+### -> Operation Focus
+* **Asset Mapping:** Building multi-threaded, stealthy passive reconnaissance engines to discover the invisible.
+* **Flaw Exploitation:** Manual and automated analysis of 403 Forbidden Bypassing, Logic Flaws, and IDOR vulnerabilities.
+* **Security Tooling:** Developing zero-footprint, agile command-line applications that bridge the gap between automated scanning and deep penetration testing.
 
-### Web Application Security
-* Specialized in 403/401 Forbidden bypass techniques via header manipulation and path fuzzing.
-* Manual analysis of IDOR, Broken Access Control, and Logic-based vulnerabilities.
-* API Security testing, focusing on unauthorized data exposure and parameter pollution.
-
-### Security Automation (Python/Bash)
-* Building multi-threaded fuzzing engines with smart baseline filtering.
-* Creating custom wrappers for security tools to streamline the Bug Bounty workflow.
-* Automating the exfiltration of geolocation and device fingerprinting data for authorized testing.
+### -> The Manifest
+1. **[Void-Recon]:** A multi-module toolkit for directory fuzzing and 403 bypassing.
+2. **[BeastSniffer]:** A high-speed passive reconnaissance engine for stealthy intelligence gathering.
+3. **[GhostTrack]:** A geolocation intelligence framework for authorized tracking and device logging.
 
 ---
 
-## Technical Stack
-
-* **Programming:** Python (Primary), Bash, JavaScript (DOM analysis).
-* **Environments:** Linux (Debian/Kali), Termux (Mobile Security Lab), Docker.
-* **Core Tooling:** Burp Suite Pro, Nuclei, Nmap, ffuf, Cloudflared.
-* **Methodologies:** OWASP Top 10, OSINT, Red Team Recon.
+> "Do not pray for an easy life, pray for the strength to endure a difficult one. The code will always bend, but your resolve must not."
 
 ---
 
-## Active Research & Projects
-
-* **Void-Recon:** A multi-module toolkit for directory fuzzing and 403 bypassing.
-* **BeastSniffer:** A high-speed passive reconnaissance engine for stealthy intelligence gathering.
-* **GhostTrack:** A geolocation intelligence framework for authorized tracking and device logging.
-
----
-
-## Professional Links
-* [GitHub Repository](https://github.com/alonebeast002)
-* [HackerOne Profile](https://hackerone.com/alonebeast002)
+### -> Command Links
+* [G] **GitHub**
+* [H] **HackerOne**
+* [L] **Linkedin**
 
 ---
 
-**Legal Disclaimer**
-The tools and technical information shared on this profile are strictly for educational and authorized security research purposes. Any unauthorized use against targets without prior written consent is illegal. I assume no liability for misuse or damage caused by these resources.
+**Legal Disclaimer:** This profile and all contained repositories are strictly for educational and authorized security research purposes only. Misuse of any information is illegal and entirely the user's responsibility. I am not liable.
