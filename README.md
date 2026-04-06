@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="banner.webp" alt="beastcrypt" width="900"/>
+  <img src="banner.webp" alt="ALONE BEAST" width="150" style="border-radius:50%"/>
 </p>
 
 <div align="center">
