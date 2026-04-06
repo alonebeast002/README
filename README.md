@@ -45,8 +45,6 @@ No bloat. No noise. Just results.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=alonebeast002&theme=dark&hide_border=false&border=333333&ring=ff3333&fire=ff3333&currStreakLabel=ff3333)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alonebeast002&show_icons=true&theme=dark&title_color=ff3333&icon_color=ff3333&border_color=333333&count_private=true&include_all_commits=true&rank_icon=github)](https://github.com/alonebeast002)
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alonebeast002&theme=react-dark&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=false)
 
 </div>
