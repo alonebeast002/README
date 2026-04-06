@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="banner.webp" alt="beastcrypt" width="900"/>
+</p>
+
 <div align="center">
 
 # ALONE BEAST
