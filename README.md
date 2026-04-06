@@ -43,9 +43,9 @@ No bloat. No noise. Just results.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alonebeast002&show_icons=true&theme=dark&title_color=ff3333&icon_color=ff3333&border_color=333&hide_border=false&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alonebeast002&theme=dark&hide_border=false&border=333333&ring=ff3333&fire=ff3333&currStreakLabel=ff3333)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alonebeast002&layout=compact&theme=dark&title_color=ff3333&border_color=333)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alonebeast002&show_icons=true&theme=dark&title_color=ff3333&icon_color=ff3333&border_color=333&count_private=true&hide=contribs)
 
 </div>
 
