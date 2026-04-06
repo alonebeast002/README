@@ -47,6 +47,8 @@ No bloat. No noise. Just results.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alonebeast002&show_icons=true&theme=dark&title_color=ff3333&icon_color=ff3333&border_color=333&count_private=true&hide=contribs)
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=alonebeast002&theme=react-dark&color=ff3333&line=ff3333&point=ffffff&area=true&hide_border=false)
+
 </div>
 
 ---
